@@ -1,12 +1,14 @@
+
 <h1>Descrição do Desafio<h1>
-  
+
+<div>
   <span> 
     Integrar um Front-end em React com uma API REST <br>
   <span>
     
-<h1>Como Fiz esse Desafio<h1>
+ <h1>Como Fiz esse Desafio<h1>
   
-<h2>API<h2>
+ <h2>API<h2>
   
   <span>
     Para criar a API utilizei o JASON SERVER <br>
@@ -23,6 +25,7 @@
   <span>
     E para fazer a consumir essa API utilizei o AXIOS 
   <span>
+</div>
     
     
     
