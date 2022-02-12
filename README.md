@@ -3,7 +3,7 @@
 
 
   <span> 
-    Integrar um Front-end em React com uma API REST <br>
+    Integrar um Front-end em React com uma API REST <br> <br>
   </span>
   
   <span>
